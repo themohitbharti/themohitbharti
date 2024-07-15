@@ -44,7 +44,7 @@ me.say_hi()
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
-
+[![themohitbharti's GitHub | Languages Over Time](https://stats.quira.sh/themohitbharti/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=themohitbharti)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=themohitbharti&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
@@ -69,7 +69,6 @@ me.say_hi()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=themohitbharti&icon=0&color=2)](https://visitcount.itsvg.in)
-
 
 
 
