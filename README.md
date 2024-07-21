@@ -40,7 +40,7 @@ me.say_hi()
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=themohitbharti&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
