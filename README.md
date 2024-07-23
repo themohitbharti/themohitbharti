@@ -38,11 +38,14 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=themohitbharti&theme=react&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themohitbharti&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=themohitbharti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohitbharti&theme=dark&hide_border=false) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=themohitbharti&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
