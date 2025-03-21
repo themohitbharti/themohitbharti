@@ -54,8 +54,7 @@ me.say_hi()
   <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
  </div>
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ck6qgjc9sw6stqxkdzibxp4z7&count=1)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mohitbharti&count=1)
 
 
 ## 📐 Activity Graph
